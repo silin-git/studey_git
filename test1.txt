@@ -1,2 +1,2 @@
-执行 git commit --amend
+by hot_fix
 呵呵
